@@ -1,0 +1,13 @@
+
+body{
+    margin-top:50px;
+    padding-left: 72px;
+    
+}
+.videogrid{
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+    row-gap: 16px;
+    
+}

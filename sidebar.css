@@ -1,0 +1,38 @@
+
+p{
+    font-family: roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 10px;
+    
+}
+.sidebar{
+
+    width: 72px;
+    position: fixed;
+    left: 0;
+    top: 60px;
+    background-color: rgb(255, 255, 255);
+    
+   
+}
+.sidebar-icons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 74px;
+    cursor: pointer;
+
+}
+.sidebar-icons img{
+    height: 24px;
+    width: 24px;
+    margin-bottom: 4px;
+    cursor: pointer;
+
+}
+.sidebar-icons:hover{
+    background-color: rgb(234, 233, 233);
+
+}
